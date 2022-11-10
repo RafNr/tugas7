@@ -1,16 +1,9 @@
 # tugas7
 
-A new Flutter project.
+## Penjelasan
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. stateless widget adalah widget yang statis, stateful widget adalah widget yang dinamis
+2.
+3. merencanakan suatu pembaruan ke suatu state objek komponen
+4.Final diinialisasi pada saat pertama kali digunakan dan hanya disetel sekali pada saat run-time, Const dapat digunakan untuk deklarasi variabel immutable yang nilainya bersifat konstan dan harus sudah diketahui pada saat waktu kompilasi berjalanb secara langsung.
+5.
